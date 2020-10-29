@@ -1,0 +1,4 @@
+step 1    type in height
+step 2    if height is less than 0 or greater than 8
+step 3    go back to step 1
+step 4    loop from 1 to height in each loop print i number of Hashes
